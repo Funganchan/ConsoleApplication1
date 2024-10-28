@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="my_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="my_view_из.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Авторизация.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Кассиры_из.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Купленные_товары_из.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Page Update="Меню.cs">
+      <SubType>Form</SubType>
+    </Page>
+    <Compile Update="Кассовые_чеки.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Кассиры.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Купленные_товары.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Товары.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Товары_из.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Кассовые_чеки_из.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
